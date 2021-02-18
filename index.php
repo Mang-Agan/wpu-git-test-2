@@ -10,6 +10,9 @@
 
 <body>
     <h1>test git remote</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
+        accusamus. Hic molestias nulla quia consequatur quas? Debitis, illum? Optio a laudantium, magnam omnis voluptatibus ex in recusandae voluptatem impedit tempore!
+    </p>
 </body>
 
 </html>
