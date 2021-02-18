@@ -13,6 +13,11 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
         accusamus. Hic molestias nulla quia consequatur quas? Debitis, illum? Optio a laudantium, magnam omnis voluptatibus ex in recusandae voluptatem impedit tempore!
     </p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
